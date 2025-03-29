@@ -1,2 +1,2 @@
-# CURSO GRATUITO DE GIT E GITHUB DO CURSO EM VÍDEO!
+# Curso de Git e GitHub gratuito do Curso em Vídeo!
  Repositório do Curso de Git e GitHub
